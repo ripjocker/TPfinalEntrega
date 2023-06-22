@@ -1,0 +1,13 @@
+[ {
+  "codigo" : "PD001",
+  "nombre" : "RTX GFORCE 4090",
+  "descripcion" : "Placa de video",
+  "stock" : 40,
+  "precioVenta" : 20000.0
+}, {
+  "codigo" : "PD002",
+  "nombre" : "Monitor 24P 360hz",
+  "descripcion" : "Monitor Gamer",
+  "stock" : 45,
+  "precioVenta" : 90000.0
+} ]

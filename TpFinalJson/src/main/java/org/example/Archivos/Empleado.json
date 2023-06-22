@@ -1,0 +1,41 @@
+[ {
+  "dni" : "39666666",
+  "nombre" : "Alberto",
+  "apellido" : "Gonzales",
+  "telefono" : "2235797789",
+  "email" : "Agonzalez@gmail.com",
+  "username" : "Agonzales",
+  "password" : "123",
+  "confirmPassword" : "123",
+  "rol" : "ADMINISTRADOR"
+}, {
+  "dni" : "39777777",
+  "nombre" : "Juan",
+  "apellido" : "Perez",
+  "telefono" : "2262465676",
+  "email" : "Jperez@gmail.com",
+  "username" : "jperez",
+  "password" : "123",
+  "confirmPassword" : "123",
+  "rol" : "EMPLEADO"
+}, {
+  "dni" : "39888888",
+  "nombre" : "Agustin",
+  "apellido" : "barrani",
+  "telefono" : "2262355959",
+  "email" : "barrani@ejemplo.com",
+  "username" : "Barrani",
+  "password" : "123",
+  "confirmPassword" : "123",
+  "rol" : "EMPLEADO"
+}, {
+  "dni" : "34058112",
+  "nombre" : "Agustin",
+  "apellido" : "Bereilh",
+  "telefono" : "2235165233",
+  "email" : "agustin@gmail.com",
+  "username" : "jab",
+  "password" : "123",
+  "confirmPassword" : "123",
+  "rol" : "ADMINISTRADOR"
+} ]
